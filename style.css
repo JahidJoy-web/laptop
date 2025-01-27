@@ -14,9 +14,18 @@ h1{
     margin-left: 5%;
     padding-left: 2%;
 }
+section{
+    height: 500px;
+}
 .half-width img{
     width: 100%;
 }
 .link-button{
-
+    text-decoration: none;
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC, #9599E2);
+    padding: 10px 20px;
+    color: whitesmoke;
+    border-radius: 8px;
+    font-weight: 700;
 }
