@@ -57,8 +57,17 @@ body{
      background-position: left;
  }
  #front-end{
-     border-left: 5px solid;
-     border-image: linear-gradient();
+     border-left: 6px solid;
+     border-image: linear-gradient(180deg, rgb(223, 190, 5), rgb(7, 100, 206));
+     border-image-slice: 1;
+ }
+ #back-end{
+    border-left: 6px solid;
+     border-image: linear-gradient(180deg, rgb(6, 131, 204), rgb(236, 7, 102));
+     border-image-slice: 1;
+ }
+ #copyright{
+    text-align: center;
  }
  
  
